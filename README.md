@@ -4,9 +4,9 @@
 
 - DevOps is the intergration of Development and Operations
 - Incorporates Continous Intergration/Delivery/Deployment into the life cylce
--
--
--
+- Allows for the silos of Development and Operations to be broken down for happier, more collaborative teams
+- Ensures good processes across the different teams, including automating the development process.
+- Increased automation means the developed code will contain less defects when it is deployed
 
 ### Linux commands that also work on Bash
 - Create a Dir `mkdir name_of_the_dr`
