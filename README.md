@@ -20,3 +20,4 @@
 - Clear your screen `clear`
 - Delete a folder `rm -rf name_of_the_folder`
 - Delete an individual file `rm name_of_the_file`
+- Find out machine name `uname` or `uname -a` for full machine name
